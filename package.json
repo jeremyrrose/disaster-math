@@ -1,7 +1,7 @@
 {
     "name": "disaster-math",
     "type": "module",
-    "version": "1.0.1",
+    "version": "1.0.11",
     "description": "A useless package describing math rules in a dystopian future. For demonstration purposes.",
     "main": "index.js",
     "scripts": {
